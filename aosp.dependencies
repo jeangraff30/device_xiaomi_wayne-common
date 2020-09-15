@@ -1,0 +1,14 @@
+[
+  {
+    "repository"  : "jeangraff30/android_vendor_xiaomi_wayne-common",
+    "target_path" : "vendor/xiaomi/wayne-common",
+    "branch"      : "ten-wip",
+    "remote"      : "github"     
+  },
+  {
+    "repository"  : "jeangraff30/android_device_xiaomi_sdm660-common",
+    "target_path" : "device/xiaomi/sdm660-common",
+    "branch"      : "ten-wip",
+    "remote"      : "github"     
+  }
+]
